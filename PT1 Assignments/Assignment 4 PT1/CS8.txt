@@ -1,0 +1,10 @@
+Adila Firdaus 2200 Sunday 2020 11 1 Monday 2020 11 2 Parking
+Suraya 2200 Sunday 2020 11 1 Monday 2020 11 2 No Entrance Pass
+John 2200 Sunday 2020 11 1 Monday 2020 11 2 Do not wear Matric Card
+Aminah Johari 2200 Sunday 2020 11 1 Monday 2020 11 2 Wearing Shorts
+James Potter 2200 Sunday 2020 11 1 Monday 2020 11 2 Parking
+Lily Potter 1500 Sunday 2020 11 1 Monday 2020 11 2 Parking
+Harry Potter 1600 Sunday 2020 11 1 Thursday 2020 11 5 Parking
+Ted Mosby 0200 Sunday 2020 11 1 Monday 2020 11 2 Parking
+Walt Disney 0200 Sunday 2020 11 1 Monday 2020 11 2 No Entrance Pass
+Adele 0200 Sunday 2020 11 1 Monday 2020 11 2 Cheating during Exam

@@ -1,0 +1,1 @@
+void readString(const char *, char *, int = 40);

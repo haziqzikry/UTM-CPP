@@ -1,0 +1,11 @@
+User                Summons Type                  Time   Day Summons    Date Summons       Day payment    Date Payment       Summons Fee
+Adila Firdaus       Parking                       02200  Sunday         1 November 2020    Monday         2 November 2020    RM 56.00
+Suraya              No Entrance Pass              02200  Sunday         1 November 2020    Monday         2 November 2020    RM 70.00
+John                Do not wear Matric Card       02200  Sunday         1 November 2020    Monday         2 November 2020    RM 91.00
+Aminah Johari       Wearing Shorts                02200  Sunday         1 November 2020    Monday         2 November 2020    RM 91.00
+James Potter        Parking                       02200  Sunday         1 November 2020    Monday         2 November 2020    RM 56.00
+Lily Potter         Parking                       01500  Sunday         1 November 2020    Monday         2 November 2020    RM 28.00
+Harry Potter        Parking                       01600  Sunday         1 November 2020    Thursday       5 November 2020    RM 40.00
+Ted Mosby           Parking                       00200  Sunday         1 November 2020    Monday         2 November 2020    RM 56.00
+Walt Disney         No Entrance Pass              00200  Sunday         1 November 2020    Monday         2 November 2020    RM 70.00
+Adele               Cheating during Exam          00200  Sunday         1 November 2020    Monday         2 November 2020    RM 140.00

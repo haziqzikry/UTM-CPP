@@ -1,0 +1,11 @@
+Name          Voltage   Voltage Level       Total Consumption   Bill
+              1073741928V	                    0                   RM0.00
+              6421612V	                    0                   RM0.00
+              2000521094V	                    0                   RM0.00
+              1V	                    0                   RM0.00
+              7274496V	                    0                   RM0.00
+              0V	                    0                   RM0.00
+              7304600V	                    0                   RM0.00
+              7274496V	                    0                   RM0.00
+              6421640V	                    0                   RM0.00
+              0V	                    0                   RM0.00

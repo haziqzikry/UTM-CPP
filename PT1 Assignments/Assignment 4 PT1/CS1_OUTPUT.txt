@@ -1,0 +1,11 @@
+Name          Voltage   Voltage Level       Total Consumption   Bill
+Adila Firdaus 1500V	Medium Voltage      300                 RM77.00
+Suraya        300V	Low Voltage         900                 RM395.60
+John          234000V	Extra High Voltage  700                 RM286.40
+Aminah Johari 50001V	High Voltage        900                 RM395.60
+James Potter  1020V	Medium Voltage      70                  RM15.26
+Lily Potter   17973V	Medium Voltage      450                 RM154.40
+Harry Potter  73829V	High Voltage        390                 RM123.44
+Ted Mosby     3681923V	Extra High Voltage  723                 RM298.96
+Walt Disney   829V	Low Voltage         10                  RM0.00
+Adele         671V	Low Voltage         679                 RM274.93
