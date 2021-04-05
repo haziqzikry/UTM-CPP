@@ -1,0 +1,120 @@
+Lab Exercise 3 (Chap 2a)
+
+No 15
+/* Name: Mohamad Haziq Zikry Bin Mohammad Razak */
+/* Matrics Number: A20EC0079 */
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	float MYR_TO_TRY = 0.5997 ; 					// Declare and set the variable
+    float MYR, turkish_Lira ;   					// Declare the variables
+	
+	cout << "Insert currency in MYR = " ; 				// Input the currency value
+	cin >> MYR ;
+	
+    turkish_Lira = MYR *  MYR_TO_TRY ; 					// Calculate the currency in Turkish lira
+
+	cout << "Currency in Turkish Lira = " << turkish_Lira << endl ; // Display the currency in Turkish Lira
+		
+	return 0;
+}
+
+Number 16
+/* Name: Mohamad Haziq Zikry Bin Mohammad Razak */
+/* Matrics Number: A20EC0079 */
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int total_Time , remain_Time ; 				// Declare the variables  
+    int day, time, hour, minutes ; 				// Declare the variables 
+
+	cout << "What is the total time in minutes? = " ; 	// Input the total time in minutes
+	cin >> total_Time ;
+
+	day = total_Time / (60*24) ; 				// Calulate the number of days
+
+	remain_Time = total_Time % (60*24) ; 			// Calculate the remaining amount of time
+	
+	hour = remain_Time / 60 ; 				// Calculate the number of hours
+	
+	remain_Time = remain_Time % 60 ; 			// Calculate the remaining amout of time
+	
+	minutes = remain_Time % 60 ; 				// Calculate the number of minutes 
+    
+	cout << "Day = " << day << endl ;  			// Display Day
+	cout << "Hour = " << hour << endl ;  			// Display Hour
+	cout << "Minutes = " << minutes << endl ;      		// Display Minutes
+		
+	return 0;
+}
+
+Number 17
+/* Name: Mohamad Haziq Zikry Bin Mohammad Razak */
+/* Matrics Number: A20EC0079 */
+
+#include <iostream>
+using namespace std;
+int main()
+{
+	float length= 2.5 ,width= 15.3 ; 			// Declare and set the variable
+	float area; 	   					//Declare the variable
+	
+	area= length*width ;  					//Calculate the area
+	cout <<"The area of a rectangle = " << area << endl; 	//Display the area of a rectangle
+	
+	return 0 ;
+}
+
+Number 18
+/* Name: Mohamad Haziq Zikry Bin Mohammad Razak */
+/* Matrics Number: A20EC0079 */
+
+#include <iostream>
+#include <iomanip> 
+
+using namespace std;
+int main()
+{
+	int UnitSale=1500; // Declare and set the variable
+	float PricePerUnit=20.00,CostPerUnit=15.00, TotalCost,TotalSale,TotalProfit; 	//Declare and set the variables
+	
+	TotalCost = UnitSale*CostPerUnit; 							// Calcualte the total cost
+	
+	TotalSale = UnitSale*PricePerUnit; 							//Calculate the total sale
+	
+	TotalProfit=TotalSale-TotalCost;  							// Calculate the total profit
+	
+	cout <<"The Total Unit Sale is RM" << UnitSale << endl ; 				//Display the unit sale
+	cout <<"The price per unit is RM"<< fixed << setprecision(2) << PricePerUnit << endl ; //Display the price per unit
+	cout <<"The Cost per unit is RM" << fixed << setprecision(2) << CostPerUnit  << endl ; //Display the cost per unit
+	cout << "The Total Profit is RM" <<TotalProfit << endl ; 				//Display the total profit
+	
+	return 0 ;
+}
+
+Number 19
+/* Name: Mohamad Haziq Zikry Bin Mohammad Razak */
+/* Matrics Number: A20EC0079 */
+
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	int Fahrenheit;					//Declare the variables
+	float Celsius;					//Declare the variables	
+	
+	cout<<"Enter Fahrenheit: " ;			//Input the value in Fahrenheit
+	cin>>Fahrenheit;							
+	
+	Celsius = (Fahrenheit-32)*(5.0/9.0);		// Calculate the value in Celcius
+	cout<<"Celcius: "<<Celsius<<endl; 		//Display the value in Celsius
+
+	return 0;
+}
